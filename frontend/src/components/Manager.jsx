@@ -31,7 +31,6 @@ const Manager = () => {
       "password",
       JSON.stringify([...passwordArray, { ...form, id: uuidv4() }])
     );
-    toast.success("Password Saved", { theme: "dark" });
 
     setForm({ site: "", username: "", password: "" });
   };
@@ -44,7 +43,6 @@ const Manager = () => {
         "password",
         JSON.stringify(passwordArray.filter((item) => item.id !== id))
       );
-      toast.success("Password Deleted", { theme: "dark" });
     }
   };
 
