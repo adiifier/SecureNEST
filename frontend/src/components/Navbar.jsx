@@ -10,7 +10,7 @@ const Navbar = () => {
           <li className="flex gap-4"></li>
         </ul>
         <div className="pr-10">
-          <a href="https://github.com/adiifier" target="_blank">
+          <a href="https://github.com/adiifier/SecureNEST" target="_blank">
             <lord-icon
               src="https://cdn.lordicon.com/yedgackm.json"
               trigger="hover"
