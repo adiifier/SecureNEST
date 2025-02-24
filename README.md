@@ -5,9 +5,9 @@ SecureNest is a **frontend-only authentication system** that securely manages us
 ---
 
 ## 📜 Features  
-✅ **User Authentication** – Secure login and signup system stored locally.  
-✅ **Data Privacy** – No external database; user data remains on the device.  
-✅ **Minimalistic UI** – Simple and intuitive design for easy navigation.  
+ **User Authentication** – Secure login and signup system stored locally.  
+ **Data Privacy** – No external database; user data remains on the device.  
+ **Minimalistic UI** – Simple and intuitive design for easy navigation.  
 
 ---
 
